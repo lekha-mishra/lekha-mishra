@@ -37,8 +37,8 @@ In addition, I am well-versed in Hybrid Mobile Application Development using tec
 <h3 align="left">Let's Connect:</h3>
 <a href="https://linkedin.com/iphtechnologies" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-iphtechnologies-informational"></a>
 <a href="mailto:lekha.iphtech@gmail.com"><img src="https://img.shields.io/badge/Email-lekha.iphtech@gmail.com-orange"></a>
-<a href="https://www.iphtechnologies.org" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-www.iphtechnologies.com-red"></a><br>
-I'm excited about the possibility of collaborating on exciting projects and contributing to the ever-evolving world of technology. If you have any questions or want to discuss a potential project, feel free to reach out. Let's create something amazing together!
+<a href="https://www.iphtechnologies.org" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-www.iphtechnologies.com-red"></a><br><br>
+I'm excited about the possibility of collaborating on exciting projects and contributing to the ever-evolving world of technology. If you have any questions or want to discuss a potential project, feel free to reach out. Let's create something amazing together!<br>
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you soon. Happy coding! 🚀
-
+<br>Thank you for visiting my GitHub profile, and I look forward to connecting with you soon. Happy coding! 🚀
+<br><br> [![](https://visitcount.itsvg.in/api?id=lekha-mishra&label=Profile%20Views&color=0&icon=9&pretty=true)](https://visitcount.itsvg.in)
