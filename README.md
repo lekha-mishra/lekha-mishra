@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lekha Mishra</h1>
+<h1 align="left">Hi 👋, I'm Lekha Mishra</h1>
 <img src="https://github.com/lambiengcode/lambiengcode/raw/main/gif/banner_gif.gif?raw=true" height="300" align="right" alt="Computador" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 I'm dedicated to providing excellent and cost-effective services to my clients, always valuing both your time and mine. My passion lies in delivering high-quality work while adapting to your specific requirements. With a highly organized, motivated, and energetic attitude, I thrive in fast-paced, time-sensitive environments and genuinely enjoy taking on long-term projects.
